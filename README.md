@@ -36,14 +36,9 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 💬 Gmail: **vatshayan007@gmail.com**
 
-## PROJECTS HELP: [LINK](https://vatshayan007.wixsite.com/website)
 
 **Other new Final Year Project on Security you may like : [LINK](https://github.com/Vatshayan/Image-Security-by-Triple-DES-Final-Year-Project)**
 
 **Another New Final Year Project on Machine Learning :[LINK](https://github.com/Vatshayan/Final-Year-Project-Stock-Price-Prediction-by-Deep-Learning)**
 
-मित्र, বন্ধু, நண்பர், friend I am here to help you, Don't worry Mail me😄
-
-I can feel your Pain, stress and overload of work.  
-
-Happy to Help you😅
+### CSE Projects: [LINK](https://www.cse-projects.com)
