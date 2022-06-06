@@ -9,7 +9,7 @@ AES algorithm uses a 128-bit symmetric, or single-key, block cipher that encrypt
 
 
 
-
+### Youtube Explanation of Project : https://youtu.be/KAmrEceJllM
 
 
 
@@ -19,10 +19,6 @@ AES algorithm uses a 128-bit symmetric, or single-key, block cipher that encrypt
 <h3 align="center">I'm a Developer from India ❤</h3>
 
 **You Can use this Beautiful Project for your college Project and get good marks too.**
-
-Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
-
-💌 Feel free to contact me for any kind of help on projects.
 
 ### WANT RESEARCH PAPER
  Email me at **vatshayan007@gmail.com** to get PDF of Research paper.
@@ -39,6 +35,7 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 **Other new Final Year Project on Security you may like : [LINK](https://github.com/Vatshayan/Image-Security-by-Triple-DES-Final-Year-Project)**
 
-**Another New Final Year Project on Machine Learning :[LINK](https://github.com/Vatshayan/Final-Year-Project-Stock-Price-Prediction-by-Deep-Learning)**
-
 ### CSE Projects: [LINK](https://www.cse-projects.com)
+
+### Youtube Explanation of Project : https://youtu.be/KAmrEceJllM
+
