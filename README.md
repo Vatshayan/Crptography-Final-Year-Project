@@ -37,10 +37,7 @@ AES algorithm uses a 128-bit symmetric, or single-key, block cipher that encrypt
 
 Mail/Message me for Projects Help 🙏🏻
 
-
 **Other new Final Year Project on Security you may like : [LINK](https://github.com/Vatshayan/Image-Security-by-Triple-DES-Final-Year-Project)**
-
-### CSE Projects: [LINK](https://www.cse-projects.com)
 
 ### Youtube Explanation of Project : https://youtu.be/KAmrEceJllM
 
